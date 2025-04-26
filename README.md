@@ -12,3 +12,10 @@ Smooth sliding transitions
 Customizable navigation controls
 Support for product images and information
 Easy to implement and customize
+
+
+## 📸 Preview
+
+![Landing Page Preview](one.png)
+![Landing Page Preview](two.png)
+![Landing Page Preview](three.png)
